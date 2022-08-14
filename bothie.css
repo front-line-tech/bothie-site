@@ -1,0 +1,17 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+
+/*
+body {
+    padding-top: 3.5rem;
+}
+*/
+
+/*
+.jumbo-top {
+  background: url(image/feature_graphic.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+*/
